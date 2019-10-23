@@ -6,7 +6,3 @@
 </head>
 
 <body>
-	Topic main page!!
-</body>
-
-</html>
